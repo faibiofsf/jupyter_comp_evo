@@ -1,2 +1,3 @@
 # jupyter_comp_evo
-Repositório utilizado na disciplina de Computação Evolutiva em 2018.
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/faibiofsf/jupyter_comp_evo/master)
+
